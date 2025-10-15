@@ -5,3 +5,33 @@ theme = 'beautifulhugo'
 
 [params]
   subtitle = 'The first workshop on Scalable Performance and Portability for Scientific Computing at Extreme Scales'
+
+[[menu.main]]
+    name = "Call for papers"
+    url = "page/cfp/"
+    weight = 1
+
+[[menu.main]]
+    name = "Author's guide"
+    url = "page/author_guide/"
+    weight = 1
+
+[[menu.main]]
+    name = "Dates"
+    url = "page/dates/"
+    weight = 1
+
+[[menu.main]]
+    name = "Contacts"
+    url = "page/contacts/"
+    weight = 1
+
+[[menu.main]]
+    name = "Venue"
+    url = "page/venue/"
+    weight = 1
+
+[[menu.main]]
+    name = "Submit"
+    url = "page/submit/"
+    weight = 1
