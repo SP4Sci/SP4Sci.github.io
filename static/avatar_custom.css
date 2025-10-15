@@ -13,3 +13,55 @@
 .intro-header {
     margin: 130px 0 20px;
 }
+
+
+/* Below 1551px: show burger, keep menu collapsed */
+@media (max-width: 1550.98px) {
+    .navbar-toggle {
+        display: block;
+    }
+
+    /* Hide the expanded nav */
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+
+    /* Show when toggled open */
+    .navbar-collapse.collapse.in {
+        display: block !important;
+    }
+
+    /* Undo desktop floats */
+    .navbar-header {
+        float: none;
+    }
+
+    .navbar-nav {
+        float: none !important;
+    }
+
+    .navbar-nav>li {
+        float: none;
+    }
+}
+
+/* From 1551px up: no burger, show full menu */
+@media (min-width: 1551px) {
+    .navbar-toggle {
+        display: none;
+    }
+
+    .navbar-collapse.collapse {
+        display: block !important;
+        height: auto !important;
+        overflow: visible !important;
+    }
+
+    .navbar-header {
+        float: left;
+    }
+
+    .navbar-nav {
+        float: right;
+    }
+}
