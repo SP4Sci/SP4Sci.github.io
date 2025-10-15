@@ -36,3 +36,7 @@ theme = 'beautifulhugo'
     name = "Submit"
     url = "page/submit/"
     weight = 1
+
+[frontmatter]
+date    = ["date", "publishDate", "lastmod", ":filename", ":default"]
+lastmod = ["lastmod", "date", "publishDate", ":git", ":fileModTime", ":default"]
