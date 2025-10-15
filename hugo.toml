@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "SPEEDS '25"
 theme = 'beautifulhugo'
+
+[params]
+  subtitle = 'The first workshop on Scalable Performance and Portability for Scientific Computing at Extreme Scales'
