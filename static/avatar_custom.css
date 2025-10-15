@@ -9,3 +9,7 @@
 .navbar-custom .avatar-container .avatar-img-border {
     box-shadow: none;
 }
+
+.intro-header {
+    margin: 130px 0 20px;
+}
