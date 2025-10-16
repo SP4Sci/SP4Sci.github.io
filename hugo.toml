@@ -4,8 +4,13 @@ title = "SPEEDS '25"
 theme = 'beautifulhugo'
 
 [params]
-  subtitle = 'The first workshop on Scalable Performance and Portability for Scientific Computing at Extreme Scales'
-  logo = "image/logo.png"
+    subtitle = 'The first workshop on Scalable Performance and Portability for Scientific Computing at Extreme Scales'
+    logo = "image/logo.png"
+    [params.author]
+        name = "Workshop Organizers"
+
+[frontmatter]
+    lastmod = [":git", ":fileModTime", ":default"]
 
 [[menu.main]]
     name = "Call for papers"
@@ -36,8 +41,3 @@ theme = 'beautifulhugo'
     name = "Submit"
     url = "page/submit/"
     weight = 1
-
-[frontmatter]
-date = [":default"]
-lastmod = [":git", ":fileModTime", ":default"]
-enableGitInfo = true
