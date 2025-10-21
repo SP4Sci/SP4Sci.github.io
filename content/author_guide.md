@@ -27,7 +27,7 @@ Accepted papers will be published in the **ACM Digital Library** as companion of
 
 All papers will be made available under the **Gold Open Access** model.
 Please note that an **open access fee** may apply **if the authors' institution does not have an existing ACM Open agreement**.
-For more details on institutional agreements, please visit the [ACM Open Program](https://open.acm.org/).
+For more details on institutional agreements, please visit the [ACM Open Program](https://www.acm.org/publications/openaccess#gold).
 
 ---
 
