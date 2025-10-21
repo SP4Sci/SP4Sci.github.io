@@ -3,5 +3,23 @@ title = "Important Dates"
 draft = false
 +++
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem
+
+All deadlines are **Anywhere on Earth (AoE)**.
+
+| **Milestone**            | **Date**              |
+|---------------------------|----------------------:|
+| **Abstract Submission**   | 12 January 2026 (AoE) |
+| **Paper Submission**      | 19 January 2026 (AoE) |
+| **Author Notification**   | 9 March 2026 (AoE)    |
+| **Camera Ready**          | 6 April 2026 (AoE)    |
+
+---
+
+### Registration
+
+At least **one full registration to the [Computing Frontiers Conference](https://www.computingfrontiers.org/2026/)** is **required** for each accepted paper to be included in the proceedings.
+Please refer to the Computing Frontiers website for details on **registration fees, policies, and deadlines**.
+
+---
+
+Stay tuned for additional workshop updates and logistical information as the conference approaches.
