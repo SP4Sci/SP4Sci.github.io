@@ -12,27 +12,28 @@ theme = 'beautifulhugo'
 [frontmatter]
     lastmod = [":git", ":fileModTime", ":default"]
 
-[[menu.main]]
-    name = "Author's guide"
-    url = "page/author_guide/"
-    weight = 1
+[menu]
+    [[menu.main]]
+        name = "Author's guide"
+        url = "page/author_guide"
+        weight = 1
 
-[[menu.main]]
-    name = "Dates"
-    url = "page/dates/"
-    weight = 1
+    [[menu.main]]
+        name = "Dates"
+        url = "page/dates"
+        weight = 2
 
-[[menu.main]]
-    name = "Contacts"
-    url = "page/contacts/"
-    weight = 1
+    [[menu.main]]
+        name = "Contacts"
+        url = "page/contacts"
+        weight = 3
 
-[[menu.main]]
-    name = "Venue"
-    url = "page/venue/"
-    weight = 1
+    [[menu.main]]
+        name = "Venue"
+        url = "page/venue"
+        weight = 4
 
-[[menu.main]]
-    name = "Submit"
-    url = "page/submit/"
-    weight = 1
+    [[menu.main]]
+        name = "Submit"
+        url = "page/submit"
+        weight = 5
