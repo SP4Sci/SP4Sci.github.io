@@ -1,7 +1,8 @@
-baseURL = 'https://sp4sci.github.io/'
 languageCode = 'en-us'
 title = "SP4Sci '26"
 theme = 'beautifulhugo'
+canonifyURLs = true
+relativeURLs = false
 
 [params]
     subtitle = "The first workshop on Scalable Performance, Portability, and Productivity for Scientific Computing co-located with Computing Frontiers '26"
@@ -15,25 +16,25 @@ theme = 'beautifulhugo'
 [menu]
     [[menu.main]]
         name = "Author's guide"
-        url = "page/author_guide"
+        pageRef = "author_guide"
         weight = 1
 
     [[menu.main]]
         name = "Dates"
-        url = "page/dates"
+        pageRef = "dates"
         weight = 2
 
     [[menu.main]]
         name = "Contacts"
-        url = "page/contacts"
+        pageRef = "contacts"
         weight = 3
 
     [[menu.main]]
         name = "Venue"
-        url = "page/venue"
+        pageRef = "venue"
         weight = 4
 
     [[menu.main]]
         name = "Submit"
-        url = "page/submit"
+        pageRef = "submit"
         weight = 5

@@ -1,5 +1,6 @@
 +++
 title = "Venue"
+draft = false
 +++
 
 ![Catania](https://www.computingfrontiers.org/2026/img/banner_home.jpg)
