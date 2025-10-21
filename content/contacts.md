@@ -3,4 +3,20 @@ title = "Contacts"
 draft = false
 +++
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem
+## Contact
+
+For inquiries about submissions, important dates, or logistics, feel free to reach out to the organizers below.
+
+### Organizing Committee
+
+- **Nitin Shukla** — [n.shukla@cineca.it](mailto:n.shukla@cineca.it)
+- **Biagio Cosenza** — [bcosenza@unisa.it](mailto:bcosenza@unisa.it)
+- **Elisabetta Boella** — [elisabetta.boella@e4company.com](mailto:elisabetta.boella@e4company.com)
+- **Davide Gadioli** — [davide.gadioli@polimi.it](mailto:davide.gadioli@polimi.it)
+- **Daniele Gregori** — [daniele.gregori@e4company.com](mailto:daniele.gregori@e4company.com)
+
+---
+
+### Scientific Committee
+
+To be defined. Updates will be posted here soon.
