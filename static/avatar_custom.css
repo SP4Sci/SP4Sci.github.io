@@ -15,8 +15,8 @@
 }
 
 
-/* Below 1551px: show burger, keep menu collapsed */
-@media (max-width: 1550.98px) {
+/* Below threshold: show burger, keep menu collapsed */
+@media (max-width: 1200.98px) {
     .navbar-toggle {
         display: block;
     }
@@ -45,8 +45,8 @@
     }
 }
 
-/* From 1551px up: no burger, show full menu */
-@media (min-width: 1551px) {
+/* From threshold: no burger, show full menu */
+@media (min-width: 1201px) {
     .navbar-toggle {
         display: none;
     }
