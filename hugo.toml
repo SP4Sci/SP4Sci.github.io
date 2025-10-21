@@ -1,6 +1,8 @@
 languageCode = 'en-us'
 title = "SP4Sci '26"
 theme = 'beautifulhugo'
+canonifyURLs = true
+relativeURLs = false
 
 [params]
     subtitle = "The first workshop on Scalable Performance, Portability, and Productivity for Scientific Computing co-located with Computing Frontiers '26"
@@ -14,25 +16,25 @@ theme = 'beautifulhugo'
 [menu]
     [[menu.main]]
         name = "Author's guide"
-        url = "author_guide"
+        pageRef = "author_guide"
         weight = 1
 
     [[menu.main]]
         name = "Dates"
-        url = "dates"
+        pageRef = "dates"
         weight = 2
 
     [[menu.main]]
         name = "Contacts"
-        url = "contacts"
+        pageRef = "contacts"
         weight = 3
 
     [[menu.main]]
         name = "Venue"
-        url = "venue"
+        pageRef = "venue"
         weight = 4
 
     [[menu.main]]
         name = "Submit"
-        url = "submit"
+        pageRef = "submit"
         weight = 5
