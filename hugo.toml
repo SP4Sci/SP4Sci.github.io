@@ -14,25 +14,25 @@ theme = 'beautifulhugo'
 [menu]
     [[menu.main]]
         name = "Author's guide"
-        url = "page/author_guide"
+        url = "author_guide"
         weight = 1
 
     [[menu.main]]
         name = "Dates"
-        url = "page/dates"
+        url = "dates"
         weight = 2
 
     [[menu.main]]
         name = "Contacts"
-        url = "page/contacts"
+        url = "contacts"
         weight = 3
 
     [[menu.main]]
         name = "Venue"
-        url = "page/venue"
+        url = "venue"
         weight = 4
 
     [[menu.main]]
         name = "Submit"
-        url = "page/submit"
+        url = "submit"
         weight = 5

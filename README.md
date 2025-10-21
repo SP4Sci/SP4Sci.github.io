@@ -19,10 +19,9 @@ SP4Sci
 |
 └---content
 |   |   index.md
-|   └   page
-|       |   author_guide.md
-|       |   contacts.md
-|       |   ...
+|   |   author_guide.md
+|   |   contacts.md
+|   |   ...
 |
 └---static/image
 |   |   logo.png
