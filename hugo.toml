@@ -13,11 +13,6 @@ theme = 'beautifulhugo'
     lastmod = [":git", ":fileModTime", ":default"]
 
 [[menu.main]]
-    name = "Call for papers"
-    url = "page/cfp/"
-    weight = 1
-
-[[menu.main]]
     name = "Author's guide"
     url = "page/author_guide/"
     weight = 1
