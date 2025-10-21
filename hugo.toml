@@ -1,4 +1,3 @@
-baseURL = 'https://sp4sci.github.io/'
 languageCode = 'en-us'
 title = "SP4Sci '26"
 theme = 'beautifulhugo'

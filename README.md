@@ -38,3 +38,9 @@ The first step is to create a dedicated branch for the change.
 Then, we should test locally the change with hugo.
 Once done push on the website and perform a merge request to main.
 This should trigger the dev ops to build and deploy the new version of the website.
+
+Please run the local server with a command similar to this one:
+
+```
+hugo --minify --gc --cleanDestinationDir --baseURL "http://localhost:1313" server
+```
