@@ -6,12 +6,11 @@ draft = false
 
 All deadlines are **Anywhere on Earth (AoE)**.
 
-| **Milestone**            | **Date**              |
-|---------------------------|----------------------:|
-| **Abstract Submission**   | 12 January 2026 (AoE) |
-| **Paper Submission**      | 19 January 2026 (AoE) |
-| **Author Notification**   | 9 March 2026 (AoE)    |
-| **Camera Ready**          | 6 April 2026 (AoE)    |
+| **Milestone**             | **Date**               |
+|---------------------------|-----------------------:|
+| **Paper Submission**      | 20 February 2026 (AoE) |
+| **Author Notification**   | 27 March 2026 (AoE)    |
+| **Camera Ready**          | 6 April 2026 (AoE)     |
 
 ---
 

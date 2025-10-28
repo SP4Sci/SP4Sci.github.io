@@ -5,7 +5,7 @@ canonifyURLs = true
 relativeURLs = false
 
 [params]
-    subtitle = "The first workshop on Scalable Performance, Portability, and Productivity for Scientific Computing co-located with Computing Frontiers '26"
+    subtitle = "The first workshop on Scalable Performance, Portability, and Productivity for Scientific Computing at CF '26"
     logo = "image/logo.png"
     [params.author]
         name = "Workshop Organizers"

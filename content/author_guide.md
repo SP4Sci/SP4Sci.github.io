@@ -27,7 +27,14 @@ Accepted papers will be published in the **ACM Digital Library** as companion of
 
 All papers will be made available under the **Gold Open Access** model.
 Please note that an **open access fee** may apply **if the authors' institution does not have an existing ACM Open agreement**.
-For more details on institutional agreements, please visit the [ACM Open Program](https://www.acm.org/publications/openaccess#gold).
+Understanding that this change could present financial challenges, ACM has approved a temporary subsidy for 2026 to ease the transition and allow more time for institutions to join ACM Open.
+The subsidy will offer:
+
+- **$250 APC for ACM/SIG members**
+- **$350 for non-members**
+
+This represents a 65% discount, funded directly by ACM.
+Authors are encouraged to help advocate for their institutions to join ACM Open during this transition period.
 
 ---
 
