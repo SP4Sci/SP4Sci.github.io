@@ -17,6 +17,6 @@ For inquiries about submissions, important dates, or logistics, feel free to rea
 
 ---
 
-### Scientific Committee
+### Technical Program Committee
 
 To be defined. Updates will be posted here soon.
