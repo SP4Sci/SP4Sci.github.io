@@ -7,6 +7,7 @@ relativeURLs = false
 [params]
     subtitle = "The first workshop on Scalable Performance, Portability, and Productivity for Scientific Computing at CF '26"
     logo = "image/logo.png"
+    customCSS = ["button.css"]
     [params.author]
         name = "Workshop Organizers"
 
@@ -38,3 +39,8 @@ relativeURLs = false
         name = "Submit"
         pageRef = "submit"
         weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
