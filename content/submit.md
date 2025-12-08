@@ -30,8 +30,8 @@ At least **one full registration** and **physical attendance** at the **[Computi
 1. **Prepare your manuscript**
    - Format your paper according to the [Author's Guide]({{< relref "author_guide.md" >}})
 
-2. **Create or log in to your HotCRP account**
-   - Visit the HotCRP website
+2. **Create or log in to your EasyChair account**
+   - Visit the EasyChair website
    - If you do not already have an account, you will need to create one.
 
 3. **Submit your paper**
