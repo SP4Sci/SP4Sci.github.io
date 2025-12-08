@@ -5,10 +5,9 @@ draft = false
 
 ## Paper Submission
 
-Submissions to the workshop will be handled through **HotCRP**.
+Submissions to the workshop will be handled through **EasyChair**.
 
-> 🔗 The submission link will be provided soon.
-> Please check this page regularly for updates.
+<a href="https://easychair.org/conferences?conf=sp4sci26" class="submission-button">Submit Your Work</a>
 
 ---
 
