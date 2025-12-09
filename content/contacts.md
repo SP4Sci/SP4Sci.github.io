@@ -19,12 +19,12 @@ For inquiries about submissions, important dates, or logistics, feel free to rea
 
 ### Technical Program Committee
 
-- **Didem Unat** - Koç University - [dunat@ku.edu.tr](mailto:dunat@ku.edu.tr)
-- **Flavio Vella** - University of Trento -  [flavio.vella@unitn.it](mailto:flavio.vella@unitn.it)
-- **Ivy Peng** - KTH Royal Institute of Technology - [ivybopeng@kth.se](mailto:ivybopeng@kth.se)
-- **Jussi Enkovaara** - CSC - [jussi.enkovaara@csc.fi](mailto:jussi.enkovaara@csc.fi)
-- **Marion Weinzierl** - University of Cambridge - [mw925@cam.ac.uk](mailto:mw925@cam.ac.uk)
-- **Matt Bettencourt** - NVIDIA - [mattb@nvidia.com](mailto:mattb@nvidia.com)
-- **Miquel Pericàs** - Chalmers University of Technology - [miquelp@chalmers.se](mailto:miquelp@chalmers.se)
-- **Tobias Weinzierl** - Durham University - [tobias.weinzierl@durham.ac.uk](mailto:tobias.weinzierl@durham.ac.uk)
-- **Vito Castellana** - Pacific Northwest National Laboratory - [vitogiovanni.castellana@pnnl.gov](mailto:vitogiovanni.castellana@pnnl.gov)
+- **Didem Unat** - Koç University
+- **Flavio Vella** - University of Trento
+- **Ivy Peng** - KTH Royal Institute of Technology
+- **Jussi Enkovaara** - CSC
+- **Marion Weinzierl** - University of Cambridge
+- **Matt Bettencourt** - NVIDIA
+- **Miquel Pericàs** - Chalmers University of Technology
+- **Tobias Weinzierl** - Durham University
+- **Vito Castellana** - Pacific Northwest National Laboratory
