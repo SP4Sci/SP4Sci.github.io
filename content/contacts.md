@@ -28,4 +28,4 @@ For inquiries about submissions, important dates, or logistics, feel free to rea
 - **Miquel Pericàs** - Chalmers University of Technology
 - **Tobias Weinzierl** - Durham University
 - **Vito Castellana** - Pacific Northwest National Laboratory
-- **Michael Bussmann** - Center for Advanced Systems Understanding
+- **Michael Bussmann** - Helmholtz-Zentrum Dresden-Rossendorf
