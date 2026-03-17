@@ -29,3 +29,4 @@ For inquiries about submissions, important dates, or logistics, feel free to rea
 - **Tobias Weinzierl** - Durham University
 - **Vito Castellana** - Pacific Northwest National Laboratory
 - **Michael Bussmann** - Helmholtz-Zentrum Dresden-Rossendorf
+- **Roberto Rocco** - E4 Computer Engineering
