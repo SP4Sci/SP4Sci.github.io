@@ -9,7 +9,7 @@ All deadlines are **Anywhere on Earth (AoE)**.
 | **Milestone**             | **Date**               |
 |---------------------------|-----------------------:|
 | **Paper Submission**      | <span style="text-decoration: line-through;">20 February 2026 (AoE)</span></br><span style="text-decoration: line-through;">27 February 2026 (AoE)</span></br>9 March 2026 (AoE) |
-| **Author Notification**   | 27 March 2026 (AoE)    |
+| **Author Notification**   | <span style="text-decoration: line-through;">27 March 2026 (AoE)</span></br>30 March 2026 (AoE)    |
 | **Camera Ready**          | 6 April 2026 (AoE)     |
 
 ---
