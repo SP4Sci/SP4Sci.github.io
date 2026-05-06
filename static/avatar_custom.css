@@ -16,7 +16,7 @@
 
 
 /* Below threshold: show burger, keep menu collapsed */
-@media (max-width: 1200.98px) {
+@media (max-width: 1400.98px) {
     .navbar-toggle {
         display: block;
     }
@@ -46,7 +46,7 @@
 }
 
 /* From threshold: no burger, show full menu */
-@media (min-width: 1201px) {
+@media (min-width: 1401px) {
     .navbar-toggle {
         display: none;
     }
