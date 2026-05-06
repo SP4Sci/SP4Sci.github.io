@@ -28,37 +28,37 @@ The workshop will take place on **May 20** and will be chaired by Davide Gadioli
       <td>Welcome</td>
     </tr>
     <tr>
-      <td>16:10–16:30</td>
+      <td>16:10–16:50</td>
       <td>Gianluca Palermo</td>
       <td>Beyond Molecular Docking: Toward Extreme-Scale Virtual Screening on European HPC Infrastructures</td>
     </tr>
     <tr>
-      <td>16:30–16:50</td>
+      <td>16:50–17:10</td>
       <td>Alessandro Romeo</td>
       <td>On the Limits of Performance Portability in Directive-Based GPU Programming</td>
     </tr>
     <tr>
-      <td>16:50–17:10</td>
+      <td>17:10–17:30</td>
       <td>Dionisis-Odysseas Sotiropoulos</td>
       <td>Evaluating the benefits of Argument Fusion: Optimizing host-device communication</td>
     </tr>
     <tr>
-      <td>17:10–17:30</td>
+      <td>17:30–17:50</td>
       <td>Leonardo Beltrame</td>
       <td>A Distributed Virtual Screening Miniapp for Performance Portability and Cross-Architecture Benchmarking</td>
     </tr>
     <tr>
-      <td>17:30–17:50</td>
+      <td>17:50–18:10</td>
       <td>Mandana Safari</td>
       <td>Design and Implementation of a Prediction-Serving System for Runtime and Parallel Performance in Quantum ESPRESSO</td>
     </tr>
     <tr>
-      <td>17:50–18:10</td>
+      <td>18:10–18:30</td>
       <td>Lorenzo Carpentieri</td>
       <td>Enabling Portable Collective Communication on Heterogeneous GPU Systems</td>
     </tr>
     <tr>
-      <td>18:10–18:40</td>
+      <td>18:30–18:40</td>
       <td>Biagio Cosenza</td>
       <td>Conclusions and remarks</td>
     </tr>
